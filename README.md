@@ -14,7 +14,6 @@ Through rigorous data cleaning, preparation, and visualization, this analysis ex
 - **Python** (Jupyter Notebook)  
 - **pandas**, **numpy** for data wrangling  
 - **matplotlib**, **seaborn** for visualization  
-- (optional) **scikit-learn** for basic preprocessing & later modeling
 
 ---
 
