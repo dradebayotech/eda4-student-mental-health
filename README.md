@@ -67,7 +67,7 @@ Through rigorous data cleaning, preparation, and visualization, this analysis ex
 
 | Prevalence of Depression by Gender | Prevalence of Depression by Dietary Habits |
 |----------------------|----------------|
-| ![By Gender](images\by_gender.png) | ![By Dietary Habits](images/by_dietary_habits.png) |
+| ![By Gender](images/by_gender.png) | ![By Dietary Habits](images/by_dietary_habits.png) |
 
 | Prevalence of Depression by Family History of Mental Illness | Prevalence of Depression by Sleep Duration |
 |----------------------------------|----------------|
