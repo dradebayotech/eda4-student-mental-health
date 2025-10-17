@@ -35,21 +35,27 @@ Through rigorous data cleaning, preparation, and visualization, this analysis ex
 **1. Prevalence of Depression:**
 - The student population in this dataset exhibits a nearly balanced distribution of depression status, with a significant number of students reporting having depression.
 - **Implication:** This highlights that depression is a prevalent concern within this student group, necessitating attention and support strategies.
+
 **2. Gender and Depression:**
 - While both male and female students report depression, a slightly higher number of male students reported having depression in this dataset.
 - **Implication:** Further investigation may be needed to understand the factors contributing to this difference and to tailor interventions appropriately for each gender.
+
 **3. Sleep Duration and Depression:**
 - There appears to be a potential association between shorter sleep durations ('Less than 5 hours', '5-6 hours', '7-8 hours') and a higher prevalence of depression. Conversely, longer sleep duration ('More than 8 hours') seems associated with a lower prevalence.
 - **Implication:** Promoting healthy sleep habits and providing resources for students struggling with sleep could be crucial in mitigating depression risk.
+
 **4. Dietary Habits and Depression:**
 - Students with 'Unhealthy' dietary habits show a considerably higher number of students with depression, while 'Healthy' dietary habits are associated with a lower prevalence.
 - **Implication:** Encouraging and supporting healthy eating habits among students could be a valuable component of mental well-being initiatives.
+
 **5. Family History of Mental Illness and Depression:**
 - While a family history of mental illness might play a role, it did not appear to be as strong a predictor of depression in this dataset compared to factors like diet or sleep duration.
 - **Implication:** While family history is a consideration, focusing on modifiable lifestyle factors might be more impactful for broad intervention strategies in this population.
+
 **6. Suicidal Thoughts and Depression:**
 - There is a strong association between having suicidal thoughts and being diagnosed with depression.
 - **Implication:** This finding underscores the critical need for mental health support systems to include screening for suicidal ideation and providing immediate, accessible resources for students who report such thoughts.
+
 **7. Age, Academic Pressure, Study Satisfaction, and Financial Stress:**
 - No clear linear relationship was observed between age and academic pressure or between study hours and study satisfaction.
 - Academic pressure and financial stress appear to have a slight upward trend with increasing financial stress, and students with depression reported higher mean academic pressure and financial stress, and lower mean study satisfaction.
