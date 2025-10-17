@@ -102,10 +102,3 @@ You can access it here:
 [GitHub](https://github.com/dradebayotech) | [LinkedIn](https://www.linkedin.com/in/your-link-here)
 
 ---
-
-## 📌 Quick instructions to make the README visuals render
-1. Create the folder `images/` at the repository root (web: *Add file → Create new file → images/.gitkeep*).  
-2. Upload the four PNGs into `images/` (names must match exactly).  
-3. Commit README.md (paste this markdown). The images will render automatically on GitHub.
-
----
