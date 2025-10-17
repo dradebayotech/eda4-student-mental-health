@@ -63,7 +63,7 @@ Through rigorous data cleaning, preparation, and visualization, this analysis ex
 
 ---
 
-## 📸 Visuals (displayed in README)
+## 📸 Selected Visuals
 
 | Prevalence of Depression by Gender | Prevalence of Depression by Dietary Habits |
 |----------------------|----------------|
