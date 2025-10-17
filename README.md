@@ -77,7 +77,7 @@ Through rigorous data cleaning, preparation, and visualization, this analysis ex
 
 ## 📁 Files in This Repository
 - `EDA4_Student_Mental_Health.ipynb` — Jupyter notebook with full exploratory analysis (data cleaning, plots, summary tables)  
-- `images/` — PNG exports used in README (`by gender.png`, `by dietary habits.png`, `by family history of mental illness.png`, `by sleep duration.png`)  
+- `images/` — PNG exports used in README (`by_gender.png`, `by_dietary_habits.png`, `by_family_history_of_mental_illness.png`, `by_sleep_duration.png`)  
 - `data/` — full/raw csv dataset  
 - `README.md` — this document
 
