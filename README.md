@@ -97,7 +97,7 @@ You can access it here:
 ---
 
 ## ✍️ Author
-**Dr. Adebayo Fashina**  
-[GitHub](https://github.com/dradebayotech) | [LinkedIn](https://www.linkedin.com/in/your-link-here)
+**Dr. Adebayo Fashina**
+📍 Toronto, Canada | [GitHub](https://github.com/dradebayotech) | [LinkedIn](https://www.linkedin.com/in/your-link-here)
 
 ---
